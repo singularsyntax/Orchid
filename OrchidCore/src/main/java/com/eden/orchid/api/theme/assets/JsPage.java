@@ -109,3 +109,4 @@ public final class JsPage extends AssetPage {
         return "</script>";
     }
 }
+
