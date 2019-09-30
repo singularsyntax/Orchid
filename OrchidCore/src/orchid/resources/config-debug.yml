@@ -10,7 +10,6 @@ services:
       - 'groovydoc'
       - 'indices'
       - 'javadoc'
-      - 'kotlindoc'
 #      - 'netlifyCms'
 #      - 'pages'
 #      - 'posts'
@@ -18,4 +17,6 @@ services:
       - 'sitemap'
 #      - 'styleguide'
       - 'swiftdoc'
-#      - 'taxonomies'
+
+kotlindoc:
+  homePageOnly: true

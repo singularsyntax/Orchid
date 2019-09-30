@@ -1,4 +1,4 @@
----
+ ---
 from: docs.plugin_index
 description: Embed the Swagger UI within any Orchid page.
 images:
