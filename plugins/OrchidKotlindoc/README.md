@@ -13,7 +13,7 @@ tags:
 
 The OrchidKotlindoc plugin integrates with the [Dokka](https://github.com/Kotlin/dokka) tool to embed class and package 
 info from Kotlin and Java source code directly in your Orchid site. Comment text is compiled as Markdown, and is also 
-fully-searchable with the {{anchor('OrchidSearch plugin', 'Orchid Search') }}.
+fully-searchable with the {{anchor('OrchidSearch plugin', 'OrchidSearch') }}.
 
 ## Demo
 

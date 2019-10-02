@@ -14,7 +14,7 @@ tags:
 The OrchidJavadoc plugin integrates with the 
 [Javadoc](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html) 
 tool to embed class and package info from Java and Java source code directly in your Orchid site. Comment text is 
-compiled as Markdown, and is also fully-searchable with the {{anchor('OrchidSearch plugin', 'Orchid Search') }}.
+compiled as Markdown, and is also fully-searchable with the {{anchor('OrchidSearch plugin', 'OrchidSearch') }}.
 
 ## Demo
 

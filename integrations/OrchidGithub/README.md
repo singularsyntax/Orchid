@@ -59,7 +59,7 @@ services:
 ### Github Releases Publisher
 
 The `githubReleases` publisher will create a [release](https://help.github.com/en/categories/releases) on Github release
-notes from the {{anchor('Orchid Changelog')}} plugin's latest changelog version.
+notes from the {{anchor('OrchidChangelog')}} plugin's latest changelog version.
 
 ```yaml
 # config.yml

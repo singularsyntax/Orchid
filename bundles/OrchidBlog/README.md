@@ -2,15 +2,15 @@
 from: docs.bundle_index
 included:
   - pluginType: plugins
-    pluginName: Orchid Posts
+    pluginName: OrchidPosts
   - pluginType: plugins
-    pluginName: Orchid Pages
+    pluginName: OrchidPages
   - pluginType: plugins
-    pluginName: Orchid Forms
+    pluginName: OrchidForms
   - pluginType: plugins
-    pluginName: Orchid Taxonomies
+    pluginName: OrchidTaxonomies
   - pluginType: bundles
-    pluginName: Orchid Language Pack
+    pluginName: OrchidLanguagePack
 ---
 
 The Orchid Blog bundle provides just what you need to get started writing your blog, and nothing more. You won't get 

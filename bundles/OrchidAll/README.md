@@ -2,47 +2,47 @@
 from: docs.bundle_index
 included:
   - pluginType: themes
-    pluginName: Orchid Bs Doc
+    pluginName: OrchidBsDoc
   - pluginType: themes
-    pluginName: Orchid Editorial
+    pluginName: OrchidEditorial
   - pluginType: themes
-    pluginName: Orchid Future Imperfect
+    pluginName: OrchidFutureImperfect
     
   - pluginType: plugins
-    pluginName: Orchid Asciidoc
+    pluginName: OrchidAsciidoc
   - pluginType: plugins
-    pluginName: Orchid Bible
+    pluginName: OrchidBible
   - pluginType: plugins
-    pluginName: Orchid Diagrams
+    pluginName: OrchidDiagrams
   - pluginType: plugins
-    pluginName: Orchid Syntax Highlighter
+    pluginName: OrchidSyntaxHighlighter
   - pluginType: plugins
-    pluginName: Orchid Writers Blocks
+    pluginName: OrchidWritersBlocks
 
   - pluginType: plugins
-    pluginName: Orchid Changelog
+    pluginName: OrchidChangelog
   - pluginType: plugins
-    pluginName: Orchid Forms
+    pluginName: OrchidForms
   - pluginType: plugins
-    pluginName: Orchid Javadoc
+    pluginName: OrchidJavadoc
   - pluginType: plugins
-    pluginName: Orchid KSS
+    pluginName: OrchidKSS
   - pluginType: plugins
-    pluginName: Orchid Netlify CMS
+    pluginName: OrchidNetlifyCMS
   - pluginType: plugins
-    pluginName: Orchid Pages
+    pluginName: OrchidPages
   - pluginType: plugins
-    pluginName: Orchid Plugin Docs
+    pluginName: OrchidPluginDocs
   - pluginType: plugins
-    pluginName: Orchid Posts
+    pluginName: OrchidPosts
   - pluginType: plugins
-    pluginName: Orchid Presentations
+    pluginName: OrchidPresentations
   - pluginType: plugins
-    pluginName: Orchid Swagger
+    pluginName: OrchidSwagger
   - pluginType: plugins
-    pluginName: Orchid Taxonomies
+    pluginName: OrchidTaxonomies
   - pluginType: plugins
-    pluginName: Orchid Wiki
+    pluginName: OrchidWiki
 ---
 
 An Orchid bundle containing every officially-developed Orchid plugin and theme. This offers the greatest flexibility to 

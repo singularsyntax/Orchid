@@ -14,7 +14,7 @@ tags:
 The OrchidSwiftdoc plugin integrates with the [SourceKitten](https://github.com/jpsim/SourceKitten) tool to embed class 
 and package info from Swift source code directly in your Orchid site, producing documentation similar to Javadoc. 
 Comment text is compiled as Markdown, and is also fully-searchable with the 
-{{anchor('OrchidSearch plugin', 'Orchid Search') }}.
+{{anchor('OrchidSearch plugin', 'OrchidSearch') }}.
 
 ## Demo
 

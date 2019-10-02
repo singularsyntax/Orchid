@@ -4,19 +4,12 @@
 services:
   generators:
     disabled:
-#      - 'changelog'
-      - 'feeds'
-#      - 'forms'
-      - 'groovydoc'
-      - 'indices'
       - 'javadoc'
-#      - 'netlifyCms'
-#      - 'pages'
-#      - 'posts'
-#      - 'presentations'
-      - 'sitemap'
-#      - 'styleguide'
+      - 'groovydoc'
       - 'swiftdoc'
+      - 'feeds'
+      - 'indices'
+      - 'sitemap'
 
 kotlindoc:
   homePageOnly: true

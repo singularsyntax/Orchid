@@ -1,24 +1,4 @@
 taxonomies:
-  - key: group
-    title: 'Plugins and Themes'
-    single: true
-    setAsPageParent: true
-    permalink: 'plugins-and-themes/:archiveIndex'
-    plugins:
-      orderByDirection: asc
-      permalink: ':term/:archiveIndex'
-      orderBy:
-        - 'title'
-    themes:
-      orderByDirection: asc
-      permalink: ':term/:archiveIndex'
-      orderBy:
-        - 'title'
-    bundles:
-      orderByDirection: asc
-      permalink: ':term/:archiveIndex'
-      orderBy:
-        - 'title'
   - key: category
     title: 'Categories'
     single: true
@@ -34,3 +14,20 @@ taxonomies:
 # Page configurations
 termArchivePages:
   layout: noBoxNoTitle
+
+collectionArchives:
+  - collectionType: 'kotlindoc'
+    collectionId: 'modules-plugins'
+    key: 'plugins'
+    permalink: 'plugins/:archiveIndex'
+  - collectionType: 'kotlindoc'
+    collectionId: 'modules-themes'
+    key: 'themes'
+    permalink: 'themes/:archiveIndex'
+  - collectionType: 'kotlindoc'
+    collectionId: 'modules-bundles'
+    key: 'bundles'
+    permalink: 'bundles/:archiveIndex'
+  - collectionType: 'pages'
+    collectionId: 'showcase'
+    permalink: 'showcase/:archiveIndex'

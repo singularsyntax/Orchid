@@ -20,7 +20,7 @@
 
   <div class="has-text-centered">
     <p>
-    {{ anchor(title = "Browse Plugins and Themes", collectionType='taxonomies', collectionId='taxonomies', itemId='group', customClasses = buttonClasses) }}
+      <a href="#" class="{{ buttonClasses }}">Browse Plugins and Themes</a>
     </p>
     <p>
       <a href="https://github.com/JavaEden/Orchid/issues/new" class="{{ buttonClasses }}">File an Issue</a>

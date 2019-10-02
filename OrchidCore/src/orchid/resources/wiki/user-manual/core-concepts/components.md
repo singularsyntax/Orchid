@@ -81,7 +81,7 @@ components:
 ### Component Wrappers
 
 Some themes will choose to wrap each component in additional markup, such as the "boxes" for the page content in the 
-{{anchor('Future Imperfect', 'Orchid Future Imperfect')}} theme. But in some cases, you may wish that the doesn't 
+{{anchor('OrchidFutureImperfect')}} theme. But in some cases, you may wish that the doesn't 
 doesn't apply these wrappers to a particular component, like if it provides its own container markup. For these 
 situations, you may set `noWrapper: true` to render the component without a wrapper.
 
@@ -139,7 +139,7 @@ theme.
 Components do not need to be declared on a page directly, but they are attached to the page when it is rendered, and is 
 able to provide any kind of scripts or styles to the page in which it is being used. 
 
-Some components, like the {{anchor('Swagger Component', 'Orchid Swagger')}} add their own scripts and styles to the 
+Some components, like the {{anchor('Swagger Component', 'OrchidSwagger')}} add their own scripts and styles to the 
 page. You do not need to do anything for this, the component will take care of telling Orchid to render its assets and
 add them to the Page so they end up in the same blocks of scripts and styles that the Theme also provides.
 

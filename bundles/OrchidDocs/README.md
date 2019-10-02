@@ -2,21 +2,21 @@
 from: docs.bundle_index
 included:
   - pluginType: themes
-    pluginName: Orchid Editorial
+    pluginName: OrchidEditorial
   - pluginType: plugins
-    pluginName: Orchid Pages
+    pluginName: OrchidPages
   - pluginType: plugins
-    pluginName: Orchid Wiki
+    pluginName: OrchidWiki
   - pluginType: plugins
-    pluginName: Orchid Forms
+    pluginName: OrchidForms
   - pluginType: plugins
-    pluginName: Orchid Changelog
+    pluginName: OrchidChangelog
   - pluginType: plugins
-    pluginName: Orchid Search
+    pluginName: OrchidSearch
   - pluginType: plugins
-    pluginName: Orchid Diagrams
+    pluginName: OrchidDiagrams
   - pluginType: plugins
-    pluginName: Orchid Syntax Highlighter
+    pluginName: OrchidSyntaxHighlighter
 ---
 
 The Orchid Docs bundle is your one-stop-shop to get started documenting your projects with Orchid! It includes the most
@@ -24,5 +24,5 @@ common plugins needed to create landing pages and wikis with rich content, perfe
 code projects. It also comes with the Editorial theme so you can jump right in and just start documenting without 
 worrying about picking or customizing theme templates. 
 
-This bundle also works well when combined with any of the {{ anchor('Orchid Javadoc') }}, 
-{{ anchor('Orchid Kotlindoc') }}, or {{ anchor('Orchid Swiftdoc') }} plugins, or all three!
+This bundle also works well when combined with any of the {{ anchor('OrchidJavadoc') }}, 
+{{ anchor('OrchidKotlindoc') }}, or {{ anchor('OrchidSwiftdoc') }} plugins, or all three!

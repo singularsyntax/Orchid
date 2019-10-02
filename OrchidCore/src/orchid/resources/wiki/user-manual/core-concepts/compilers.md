@@ -15,8 +15,8 @@ file determines the output file extension. Here are some examples:
 - `.peb -> .html`: Pebble 
 - `.scss -> .css`: Sass, (SCSS syntax)
 - `.sass -> .css`: Sass, (Sass syntax)
-- `.ad -> .html`: AsciiDoc (requires {{anchor('Orchid Asciidoc')}} plugin)
-- `.uml -> .svg`: PlantUML (requires {{anchor('Orchid Diagrams')}} plugin)
+- `.ad -> .html`: AsciiDoc (requires {{anchor('OrchidAsciidoc')}} plugin)
+- `.uml -> .svg`: PlantUML (requires {{anchor('OrchidDiagrams')}} plugin)
 
 Orchid does not make a distinction between 'template' languages (like Pebble) or 'content' languages (like Markdown), As
 a result, the content for your pages can be written in any language you like.

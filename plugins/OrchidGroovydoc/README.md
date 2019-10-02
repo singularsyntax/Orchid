@@ -14,7 +14,7 @@ tags:
 The OrchidGroovydoc plugin integrates with the 
 [Groovydoc](http://docs.groovy-lang.org/latest/html/documentation/#_groovydoc_the_groovy_java_documentation_generator) 
 tool to embed class and package info from Groovy and Java source code directly in your Orchid site. Comment text is 
-compiled as Markdown, and is also fully-searchable with the {{anchor('OrchidSearch plugin', 'Orchid Search') }}.
+compiled as Markdown, and is also fully-searchable with the {{anchor('OrchidSearch plugin', 'OrchidSearch') }}.
 
 ## Demo
 

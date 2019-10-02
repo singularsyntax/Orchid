@@ -300,7 +300,7 @@ a closing tag consider everything within the opening and closing tags to be arbi
 desired, by adding the desired filters after `::` at the end of the opening tag. All custom Orchid tags may have a 
 number of possible arguments available, which may be passed sequentially or as named parameters. See the examples below:
 
-**Highlight tag available in the {{ anchor('Orchid Syntax Highlighter') }} plugin**
+**Highlight tag available in the {{ anchor('OrchidSyntaxHighlighter') }} plugin**
 
 ```jinja
 {% verbatim %}
@@ -318,7 +318,7 @@ public static void main(String... args) {}
 {% endverbatim %} 
 ```
 
-**Twitter tag available in the {{ anchor('Orchid Writers Blocks') }} plugin**
+**Twitter tag available in the {{ anchor('OrchidWritersBlocks') }} plugin**
 
 ```jinja
 {% verbatim %}
@@ -329,6 +329,6 @@ public static void main(String... args) {}
 ```
 
 {% alert 'info' 'Tip' :: compileAs('md') %}
-To make it easier to find and use these custom Tags, the {{ anchor('Orchid Netlify CMS') }} plugin
+To make it easier to find and use these custom Tags, the {{ anchor('OrchidNetlifyCMS') }} plugin
 adds all these tags as custom fields within its WYSIWYG editor.
 {% endalert %}

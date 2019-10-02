@@ -134,8 +134,8 @@ offline viewing.
  
 The following plugins provide adapters to external Wikis:
 
-- {{ anchor('Orchid Github') }} - Connect to a repository's [GitHub Wiki](https://guides.github.com/features/wikis/)
-- {{ anchor('Orchid Gitlab') }} - Connect to a repository's [GitLab Wiki](https://docs.gitlab.com/ee/user/project/wiki/)
+- {{ anchor('OrchidGithub') }} - Connect to a repository's [GitHub Wiki](https://guides.github.com/features/wikis/)
+- {{ anchor('OrchidGitlab') }} - Connect to a repository's [GitLab Wiki](https://docs.gitlab.com/ee/user/project/wiki/)
 
 Adapters can be set individually for each Section in your wiki by declaring the intended adapter and its options in you
 `config.yml`. See the plugin pages linked above for more info on configuring each wiki adapter.

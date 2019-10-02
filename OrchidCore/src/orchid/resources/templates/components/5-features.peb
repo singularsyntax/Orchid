@@ -8,34 +8,34 @@
     <div class="column is-half has-background-light" style="border-radius: 20px;">
       <h3 class="list-title">Document any language</h3>
       <ul>
-        <li>{{ anchor('Java', 'Orchid Javadoc') }}</li>
-        <li>{{ anchor('Kotlin', 'Orchid Kotlindoc') }}</li>
-        <li>{{ anchor('Groovy', 'Orchid Groovydoc') }}</li>
-        <li>{{ anchor('Swift', 'Orchid Swiftdoc') }}</li>
-        <li>{{ anchor('CSS', 'Orchid KSS') }}</li>
+        <li>{{ anchor('Java', 'OrchidJavadoc') }}</li>
+        <li>{{ anchor('Kotlin', 'OrchidKotlindoc') }}</li>
+        <li>{{ anchor('Groovy', 'OrchidGroovydoc') }}</li>
+        <li>{{ anchor('Swift', 'OrchidSwiftdoc') }}</li>
+        <li>{{ anchor('CSS', 'OrchidKSS') }}</li>
       </ul>
 
       <h3 class="list-title">Do more with tons of plugins</h3>
       <ul>
-        <li>{{ anchor('Blog posts', 'Orchid Posts') }}</li>
-        <li>{{ anchor('Wikis', 'Orchid Wiki') }}</li>
-        <li>{{ anchor('Changelogs', 'Orchid Changelog') }}</li>
-        <li>{{ anchor('Code Documentation', 'Orchid Javadoc') }}</li>
-        <li>{{ anchor('Client-side search', 'Orchid Search') }}</li>
+        <li>{{ anchor('Blog posts', 'OrchidPosts') }}</li>
+        <li>{{ anchor('Wikis', 'OrchidWiki') }}</li>
+        <li>{{ anchor('Changelogs', 'OrchidChangelog') }}</li>
+        <li>{{ anchor('Code Documentation', 'OrchidJavadoc') }}</li>
+        <li>{{ anchor('Client-side search', 'OrchidSearch') }}</li>
       </ul>
 
       <h3 class="list-title">Connect to your existing tools</h3>
       <ul>
-        <li>{{ anchor('GitHub Wikis', 'Orchid Github') }}</li>
-        <li>{{ anchor('Swagger API Definitions', 'Orchid Swagger') }}</li>
-        <li>{{ anchor('Netlify Forms', 'Orchid Forms') }}</li>
+        <li>{{ anchor('GitHub Wikis', 'OrchidGithub') }}</li>
+        <li>{{ anchor('Swagger API Definitions', 'OrchidSwagger') }}</li>
+        <li>{{ anchor('Netlify Forms', 'OrchidForms') }}</li>
       </ul>
 
       <h3 class="list-title">Pain-free integrated deployment</h3>
       <ul>
-        <li>{{ anchor('GitHub Pages', 'Orchid Github') }}</li>
-        <li>{{ anchor('Gitlab Pages', 'Orchid Gitlab') }}</li>
-        <li>{{ anchor('Netlify', 'Orchid Netlify') }}</li>
+        <li>{{ anchor('GitHub Pages', 'OrchidGithub') }}</li>
+        <li>{{ anchor('Gitlab Pages', 'OrchidGitlab') }}</li>
+        <li>{{ anchor('Netlify', 'OrchidNetlify') }}</li>
       </ul>
     </div>
     <div class="column"></div>

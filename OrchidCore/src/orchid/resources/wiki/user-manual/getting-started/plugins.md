@@ -8,17 +8,17 @@ more.
 
 ## Popular Plugins
 
-### {{ anchor('Static Pages', 'Orchid Pages') }}
+### {{ anchor('Static Pages', 'OrchidPages') }}
 
-{{ find('Orchid Pages').description }}
+{{ find('OrchidPages').description }}
 
-### {{ anchor('Blog Posts', 'Orchid Posts') }}
+### {{ anchor('Blog Posts', 'OrchidPosts') }}
 
-{{ find('Orchid Posts').description }}
+{{ find('OrchidPosts').description }}
 
-### {{ anchor('Wikis', 'Orchid Wiki') }}
+### {{ anchor('Wikis', 'OrchidWiki') }}
 
-{{ find('Orchid Wiki').description }}
+{{ find('OrchidWiki').description }}
 
 ## What to Extend
 

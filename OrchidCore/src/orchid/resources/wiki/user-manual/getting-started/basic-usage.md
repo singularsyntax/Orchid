@@ -38,7 +38,7 @@ kscript ./orchid.kts build
 
 Running Orchid in `serve` mode will first build your site, but then also start a local webserver for you to easily 
 preview it. In addition, it will watch your content directory for changes and rebuild with each change. And if you have
-the {{anchor('Orchid Plugin Docs')}} plugin installed, you'll also be able to visit an admin panel at `/admin` and 
+the {{anchor('OrchidPluginDocs')}} plugin installed, you'll also be able to visit an admin panel at `/admin` and 
 automatically get the most up-to-date documentation for your installed plugins delivered right to you!
 
 **Example Usage**
