@@ -8,7 +8,7 @@
 </head>
 <body class="has-navbar-fixed-top">
 {% include '?trackingBodyStart' %}
-{% include 'includes/copper/navbar' with {'menu': theme.menu, 'navbarClasses': 'is-white', 'navbarLogo': 'assets/svg/orchid/logo_left_light.svg'} %}
+{% include 'includes/copper/homepageNavbar' %}
 {% embed 'includes/componentHolderEmbed' with {"componentHolder": page.components} %}
 {% block componentWrapper %}
 <section

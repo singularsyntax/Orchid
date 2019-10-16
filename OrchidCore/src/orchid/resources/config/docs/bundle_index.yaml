@@ -1,4 +1,8 @@
-layout: noBoxNoTitle
+layoutConfig:
+  wrapPageInBox: false
+  wrapTitleInBox: false
+  includeTitle: false
+  includeBreadcrumbs: false
 
 menu:
   - type: 'page'

@@ -2,8 +2,16 @@ categories:
   - 'news'
 
 postPages:
-  layout: 'noBox'
+  layout: homepage
+  layoutConfig:
+    wrapPageInBox: false
+    wrapTitleInBox: false
+    includeTitle: false
+    includeBreadcrumbs: false
   author: 'Casey Brooks'
+  components:
+    - type: 'pageContent'
+      noWrapper: false
 
 authors:
   - name: 'Casey Brooks'

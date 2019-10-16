@@ -1,4 +1,8 @@
 ---
 from: wiki.indexPages
-layout: 'noBoxNoTitle_menu'
+layoutConfig:
+    wrapPageInBox: false
+    wrapTitleInBox: false
+    includeTitle: false
+    includeBreadcrumbs: false
 ---

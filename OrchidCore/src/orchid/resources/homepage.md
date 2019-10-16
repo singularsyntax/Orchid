@@ -1,5 +1,5 @@
 ---
-layout: orchidHomepage
+layout: homepage
 relativePriority: 1.0
 components:
   - template: '1-hero'

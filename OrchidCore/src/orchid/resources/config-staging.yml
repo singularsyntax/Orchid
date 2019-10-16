@@ -18,4 +18,4 @@ external:
       url: 'https://copper-leaf.github.io/krow/meta/kotlindoc.index.json'
 
 kotlindoc:
-  homePageOnly: false
+  homePageOnly: true

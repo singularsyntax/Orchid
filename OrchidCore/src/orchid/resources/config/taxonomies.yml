@@ -10,10 +10,25 @@ taxonomies:
       - 'publishDate'
     news:
       permalink: ':term/:archiveIndex'
+  - key: tags
+    title: 'Tags'
+    single: false
+    setAsPageParent: false
+    permalink: 'tags/:archiveIndex'
+    includeFrom:
+      - 'posts'
+    orderBy:
+      - 'publishDate'
+    news:
+      permalink: ':term/:archiveIndex'
 
 # Page configurations
 termArchivePages:
-  layout: noBoxNoTitle
+  layoutConfig:
+    wrapPageInBox: false
+    wrapTitleInBox: false
+    includeTitle: false
+    includeBreadcrumbs: false
 
 collectionArchives:
   - collectionType: 'kotlindoc'

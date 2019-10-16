@@ -2,7 +2,11 @@
 title: Copper Demo
 theme: 
     from: 'theme.demo.Copper'
-layout: homepage
+layoutConfig:
+    wrapPageInBox: false
+    wrapTitleInBox: false
+    includeTitle: false
+    includeBreadcrumbs: false
 template: homepage
 skipTaxonomy: true
 ---

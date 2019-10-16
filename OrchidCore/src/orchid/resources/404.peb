@@ -1,5 +1,9 @@
 ---
-layout: boxNoTitle
+layoutConfig:
+  wrapPageInBox: true
+  wrapTitleInBox: false
+  includeTitle: false
+  includeBreadcrumbs: false
 ---
 
 <div class="has-text-centered">

@@ -5,7 +5,23 @@ sections:
     title: 'Tutorials'
 
 wikiPages:
-  layout: noBoxNoTitle_menu
+  layoutConfig:
+    wrapPageInBox: false
+    wrapTitleInBox: false
+    includeTitle: false
+    includeBreadcrumbs: false
+  components:
+    - type: "pageContent"
+    - type: "prism"
+      githubTheme: 'duotone-light'
+      languages:
+        - kotlin
+        - java
+        - groovy
+        - yaml
+        - asciidoc
+        - markdown
+
 'user-manual':
   menu:
     - type: 'separator'

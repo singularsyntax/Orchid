@@ -16,13 +16,14 @@ theme:
       - link: 'https://twitter.com/OrchidSSG'
         label: 'Twitter'
         icon: 'fab fa-twitter'
+      - link: 'https://gitter.im/JavaEden/Orchid'
+        label: 'Gitter'
+        icon: 'fab fa-gitter'
   primaryColor: '#7E80CF'
   bannerColor: '#444444'
   linkColor: '#7E80CF'
 
   menu:
-    - type: 'page'
-      itemId: 'Tutorials'
     - type: 'page'
       collectionType: 'taxonomies'
       itemId: 'plugins'
@@ -30,11 +31,10 @@ theme:
       collectionType: 'taxonomies'
       itemId: 'themes'
     - type: 'page'
+      itemId: 'Tutorials'
+    - type: 'page'
       collectionType: 'taxonomies'
       itemId: 'Showcase'
-    - type: 'github'
-      title: 'GitHub'
-      githubProject: 'JavaEden/Orchid'
   navbarPrimaryButtonTitle: 'Quick Start'
   navbarPrimaryButton: 'Quick-Start'
   navbarSecondaryButtonTitle: 'Documentation'
@@ -67,15 +67,3 @@ services:
         repo: 'JavaEden/Orchid'
         commitish: 'master'
 
-allPages:
-  components:
-    - type: "pageContent"
-    - type: "prism"
-      githubTheme: 'duotone-light'
-      languages:
-        - kotlin
-        - java
-        - groovy
-        - yaml
-        - asciidoc
-        - markdown

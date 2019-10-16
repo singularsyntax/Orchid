@@ -2,7 +2,11 @@
 title: Copper - No-Box Page Layout
 theme: 
   from: 'theme.demo.Copper'
-layout: noBox
+layoutConfig:
+    wrapPageInBox: false
+    wrapTitleInBox: false
+    includeTitle: true
+    includeBreadcrumbs: false
 template: page
 skipTaxonomy: true
 parent: Copper Demo
